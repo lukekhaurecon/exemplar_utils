@@ -1,0 +1,6 @@
+[openai]
+API_TYPE = "azure"
+API_VERSION = "2023-12-01-preview"
+API_BASE = "www.url.com"
+API_KEY = "abc123"
+DEPLOYMENT_NAME = "deployment name"
